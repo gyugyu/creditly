@@ -1,0 +1,29 @@
+{
+  "name": "creditly",
+  "version": "0.1.0",
+  "homepage": "http://wangjohn.github.io/creditly/",
+  "authors": [
+    "John J. Wang"
+  ],
+  "description": "An intuitive credit card form",
+  "main": "src/creditly.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "credit",
+    "form"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "index.html",
+    "example.html",
+    "teaser.css",
+    "images/teaser_snapshot.png"
+  ]
+}
